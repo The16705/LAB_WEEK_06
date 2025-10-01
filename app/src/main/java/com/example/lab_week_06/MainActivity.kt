@@ -62,6 +62,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Tom",
+                    "Loves chasing mice",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Very playful and energetic",
+                    "https://cdn2.thecatapi.com/images/9qi.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.ExoticShorthair,
+                    "Milo",
+                    "Always curious about everything",
+                    "https://cdn2.thecatapi.com/images/3ou.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Daisy",
+                    "Sleeps all day long",
+                    "https://cdn2.thecatapi.com/images/2oo.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Simba",
+                    "King of the living room",
+                    "https://cdn2.thecatapi.com/images/7dr.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.BalineseJavanese,
+                    "Shadow",
+                    "Moves like a ninja",
+                    "https://cdn2.thecatapi.com/images/5p7.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Cleo",
+                    "Elegant and graceful",
+                    "https://cdn2.thecatapi.com/images/8ga.jpg"
                 )
             )
         )
